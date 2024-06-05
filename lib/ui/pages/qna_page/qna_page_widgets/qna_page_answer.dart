@@ -63,6 +63,7 @@ class QnAPageAnswer extends StatelessWidget {
             SizedBox(height: 10),
             Container(
               child: ExpansionTile(
+                initiallyExpanded: true,
                 title: Container(
                   height: MediaQuery.of(context).size.height * 0.08,
                   child: Row(

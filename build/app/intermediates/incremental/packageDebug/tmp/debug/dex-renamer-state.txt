@@ -1,4 +1,4 @@
-#Tue Mar 19 23:04:14 KST 2024
+#Thu May 30 14:26:46 KST 2024
 base.0=/Users/bongbong/Desktop/only_front/church/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/bongbong/Desktop/only_front/church/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/Users/bongbong/Desktop/only_front/church/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

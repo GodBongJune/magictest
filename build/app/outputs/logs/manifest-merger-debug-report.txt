@@ -44,6 +44,7 @@ MERGED from [:flutter_plugin_android_lifecycle] /Users/bongbong/Desktop/only_fro
 MERGED from [:flutter_inappwebview] /Users/bongbong/Desktop/only_front/church/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
 MERGED from [:multi_image_picker_plus] /Users/bongbong/Desktop/only_front/church/build/multi_image_picker_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:fluttertoast] /Users/bongbong/Desktop/only_front/church/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/bongbong/Desktop/only_front/church/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [io.github.sangcomz:fishbun:1.1.1] /Users/bongbong/.gradle/caches/transforms-3/dba77152fee46eab39bccc1b58954a67/transformed/jetified-fishbun-1.1.1/AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/bongbong/.gradle/caches/transforms-3/224222a8cee5dc0337aec6f0aea8f64c/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/bongbong/.gradle/caches/transforms-3/39410c3124b48674e4ae3b42d56b6bc9/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
@@ -125,6 +126,8 @@ MERGED from [:multi_image_picker_plus] /Users/bongbong/Desktop/only_front/church
 MERGED from [:multi_image_picker_plus] /Users/bongbong/Desktop/only_front/church/build/multi_image_picker_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] /Users/bongbong/Desktop/only_front/church/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] /Users/bongbong/Desktop/only_front/church/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/bongbong/Desktop/only_front/church/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/bongbong/Desktop/only_front/church/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [io.github.sangcomz:fishbun:1.1.1] /Users/bongbong/.gradle/caches/transforms-3/dba77152fee46eab39bccc1b58954a67/transformed/jetified-fishbun-1.1.1/AndroidManifest.xml:5:5-7:41
 MERGED from [io.github.sangcomz:fishbun:1.1.1] /Users/bongbong/.gradle/caches/transforms-3/dba77152fee46eab39bccc1b58954a67/transformed/jetified-fishbun-1.1.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/bongbong/.gradle/caches/transforms-3/224222a8cee5dc0337aec6f0aea8f64c/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44

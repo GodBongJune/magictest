@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/file_selector_macos-master.dia",
+    "emit-module-dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/file_selector_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/file_selector_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/file_selector_macos-master.swiftdeps"
+  },
+  "/Users/bongbong/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/FileSelectorPlugin.swift" : {
+    "const-values" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.d",
+    "diagnostics" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.o",
+    "llvm-bc" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.bc",
+    "object" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.o",
+    "swift-dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/FileSelectorPlugin~partial.swiftmodule"
+  },
+  "/Users/bongbong/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/messages.g.swift" : {
+    "const-values" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.swiftconstvalues",
+    "dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.d",
+    "diagnostics" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.o",
+    "swift-dependencies" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g.swiftdeps",
+    "swiftmodule" : "/Users/bongbong/Desktop/only_front/church/build/macos/Build/Intermediates.noindex/Pods.build/Debug/file_selector_macos.build/Objects-normal/arm64/messages.g~partial.swiftmodule"
+  }
+}

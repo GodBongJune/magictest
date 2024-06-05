@@ -9,14 +9,21 @@ import 'home_page/home_page.dart';
 import 'my_page/my_page.dart';
 
 class MainPage extends StatefulWidget {
-  const MainPage({super.key});
+  final int initialPage;
+  const MainPage({super.key, this.initialPage = 1});
 
   @override
   State<MainPage> createState() => _MainPageState();
 }
 
 class _MainPageState extends State<MainPage> {
-  int _selectedPage = 1;
+  late int _selectedPage = 1;
+
+  @override
+  void initState() {
+    super.initState();
+    _selectedPage = widget.initialPage;
+  }
 
   @override
   Widget build(BuildContext context) {

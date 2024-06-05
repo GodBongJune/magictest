@@ -16,21 +16,6 @@ class HomePageBody extends StatefulWidget {
 class _HomePageBodyState extends State<HomePageBody> {
   List<Map<String, dynamic>> homeList = [
     {
-      "title": "오늘의 설교",
-      "image": "assets/images/homelogo/home1.svg",
-      "route": Move.todaySermonPage
-    },
-    {
-      "title": "교회 주보",
-      "image": "assets/images/homelogo/home2.svg",
-      "route": Move.churchNewsPage
-    },
-    {
-      "title": "예배 안내",
-      "image": "assets/images/homelogo/home3.svg",
-      "route": Move.worshipTimePage
-    },
-    {
       "title": "교회 일정",
       "image": "assets/images/homelogo/home4.svg",
       "route": Move.churchCalendarPage
@@ -41,21 +26,10 @@ class _HomePageBodyState extends State<HomePageBody> {
       "route": Move.churchNoticePage
     },
     {
-      "title": "실시간 예배",
-      "image": "assets/images/homelogo/home6.svg",
-      "route": Move.worshipLivePage
-    },
-    {
-      "title": "교우 소식",
-      "image": "assets/images/homelogo/home7.svg",
-      "route": Move.churchMemberPage
-    },
-    {
       "title": "교회 소개",
       "image": "assets/images/homelogo/home8.svg",
       "route": Move.churchInfoPage
     },
-    {"title": "홈페이지", "image": "assets/images/homelogo/home9.svg", "route": ""},
   ];
 
   final PageController _pageController = PageController(initialPage: 0);

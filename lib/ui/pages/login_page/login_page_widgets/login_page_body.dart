@@ -264,14 +264,14 @@ class _LoginPageBodyState extends State<LoginPageBody> {
                 height: MediaQuery.of(context).size.height * 0.06,
               ),
             ),
-            InkWell(
-              onTap: () {},
-              child: SvgPicture.asset(
-                "assets/images/sns/apple.svg",
-                width: MediaQuery.of(context).size.width * 0.11,
-                height: MediaQuery.of(context).size.height * 0.06,
-              ),
-            ),
+            // InkWell(
+            //   onTap: () {},
+            //   child: SvgPicture.asset(
+            //     "assets/images/sns/apple.svg",
+            //     width: MediaQuery.of(context).size.width * 0.11,
+            //     height: MediaQuery.of(context).size.height * 0.06,
+            //   ),
+            // ),
           ],
         ),
       ],

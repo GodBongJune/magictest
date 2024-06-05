@@ -1,6 +1,7 @@
 import 'package:church/core/constant/color.dart';
 import 'package:church/core/constant/size.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 MaterialColor primaryWhite = MaterialColor(
   0xFFFFFFFF,
@@ -28,6 +29,10 @@ ThemeData theme() {
 
 AppBarTheme appBarTheme() {
   return AppBarTheme(
+    systemOverlayStyle: SystemUiOverlayStyle(
+      statusBarColor: Colors.white,
+      statusBarIconBrightness: Brightness.dark,
+    ),
     titleTextStyle: TextStyle(
       color: k3DColor,
       fontSize: size16,

@@ -22,12 +22,9 @@ class _ChurchCalendarPageBodyState extends State<ChurchCalendarPageBody> {
       int day = int.tryParse(parts[2]) ?? 0;
 
       if (year > 0 && month >= 1 && month <= 12 && day >= 1 && day <= 31) {
-        // DateTime 객체 생성
         return DateTime(year, month, day);
       }
     }
-
-    // 유효하지 않은 형식이라면 기본값으로 현재 날짜 반환
     return DateTime.now();
   }
 
