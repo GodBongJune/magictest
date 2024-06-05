@@ -130,7 +130,7 @@ class _StartPageBodyState extends State<StartPageBody> {
               ),
               child: Center(
                 child: Text(
-                  "확인",
+                  "확인버튼입니다",
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: size16,
